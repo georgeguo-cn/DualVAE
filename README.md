@@ -11,6 +11,10 @@ The interaction data is shared at `data/`.
 
 The logs and parameters are shared at `log/` and `models/`, respectively.
 
+### Environment
+
+    pip install -r requirements.txt
+
 ### Run
 
 Run `train.sh` to train DualVAE: 
