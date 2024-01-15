@@ -1,7 +1,7 @@
 ## DualVAE (SDM'24)
 
 This is the Pytorch implementation for our SDM 2024 paper:
->Zhiqiang Guo, Guohui Li, Jianjun Li, Chaoyang Wang, Si Shi. DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation. In SDM 2024. [Paper](#)
+>Zhiqiang Guo, Guohui Li, Jianjun Li, Chaoyang Wang, Si Shi. DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation. In SDM 2024. [Paper](http://arxiv.org/abs/2401.04914)
 
 ### Data  
 
